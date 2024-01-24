@@ -1,2 +1,2 @@
-C:\Users\dandu\Java_WorkSpace\OpenCart
+cd C:\Users\dandu\Java_WorkSpace\OpenCart
 mvn clean test

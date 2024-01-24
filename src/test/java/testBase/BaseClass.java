@@ -74,6 +74,7 @@ public class BaseClass {
 		logger.info("Closing the application");
 		driver.quit();
 	}
+	//reusable methods
 	//Java methods -- we can call these methods any where (any class or tests)
 	public String randomeString()
 	{

@@ -29,31 +29,39 @@ public class TC_003_LoginDataDrivenTest extends BaseClass {
 
 			MyAccountPage myacc=new MyAccountPage(driver);
 			boolean targetpage = myacc.isMyAccountPageExists();// this method is created MyAccountPage
-
-			if (exp.equals("Valid")) {
-				if (targetpage == true) {
+			if(exp.equals("Valid"))
+			{
+				if(targetpage==true)
+				{
 					myacc.clickLogout();
 					Assert.assertTrue(true);
-				} else {
+				}
+				else
+				{
 					Assert.assertTrue(false);
 				}
 			}
-
-			if (exp.equals("Invalid")) {
-				if (targetpage == true) {
-					MyAccountPage myaccpage = new MyAccountPage(driver);
-					myaccpage.clickLogout();
-					Assert.assertTrue(false);
-				} else {
+			
+			if(exp.equals("Invalid"))
+			{
+				if(targetpage==true)
+				{
+					myacc.clickLogout();
 					Assert.assertTrue(true);
 				}
+				else
+				{
+					Assert.assertFalse(false);
+				}
 			}
-
-		} catch (Exception e) {
-			Assert.fail();
+			}
+			catch(Exception e)
+			{
+				Assert.fail();
+			}
+			
+			logger.info("Finishing TC_003_DataDrivenTest.......");
+			
 		}
-
-		logger.info(" Finished TC_003_LoginDataDrivenTest");
-
-	}
+	
 }

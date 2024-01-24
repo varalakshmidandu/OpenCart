@@ -1,20 +1,40 @@
-16:53:40.843 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:53:51.862 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:53:51.863 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:54:03.480 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:54:03.481 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:54:06.400 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:54:06.403 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application
-16:29:44.809 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching chrome browser
-16:29:47.978 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching the browser
-16:29:51.661 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:29:54.020 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:29:54.051 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:30:05.108 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:30:05.109 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:30:16.064 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:30:16.065 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:30:27.784 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:30:27.785 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
-16:30:30.364 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
-16:30:30.366 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application
+13:06:10.900 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application
+13:07:01.244 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching chrome browser
+13:07:02.735 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching the browser
+13:07:06.812 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:09.118 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:09.131 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:11.224 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:11.227 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:13.529 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:13.532 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:24.697 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:24.698 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:26.732 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:26.734 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application
+13:07:41.058 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching chrome browser
+13:07:42.506 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching the browser
+13:07:45.705 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:48.020 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:48.035 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:50.260 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:50.260 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:07:52.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:07:52.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:08:03.695 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:08:03.703 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+13:08:06.309 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+13:08:06.309 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application
+09:30:00.612 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching chrome browser
+09:30:02.727 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Launching the browser
+09:30:06.219 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+09:30:08.424 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+09:30:08.440 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+09:30:10.404 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+09:30:10.406 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+09:30:12.412 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+09:30:12.414 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+09:30:23.535 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+09:30:23.536 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+09:30:25.943 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Finishing TC_003_DataDrivenTest.......
+09:30:25.945 [main] INFO  testCases.TC_003_LoginDataDrivenTest - Closing the application

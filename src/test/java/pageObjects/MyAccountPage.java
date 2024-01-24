@@ -15,10 +15,10 @@ public class MyAccountPage extends BasePage{
 	@FindBy(xpath = "//h2[text()='My Account']") // MyAccount Page heading
 	WebElement msgHeading;
 	
-	@FindBy(xpath = "//div[@class='list-group']//a[text()='Logout']")
-	WebElement lnkLogout;
-	
-	//or //@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']") WebElement lnkLogout;
+ /*@FindBy(xpath = "//div[@class='list-group']//a[text()='Logout']")
+	WebElement lnkLogout;*/
+	//or 
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']") WebElement lnkLogout;
 
 	//we can check My Account page heading message is return true or false not validation
 	//validation will do @test methods

@@ -6,7 +6,6 @@
   <listeners>
 		<listener class-name="utilities.ExtentReportManager" />
 	</listeners>
-	
   <test name="OpenCart Test">
     <parameter name="browser" value="chrome" />    <!-- passing browser parameter to BaseClass ->Setup() --> 
    	<groups>

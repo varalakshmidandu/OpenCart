@@ -14,6 +14,7 @@ public class TC_002_LoginTest extends BaseClass {
 	@Test(groups= {"Sanity","Master"}) //Step8 groups added
 	public void test_Login()
 	{
+		
 		logger.info("Starting TC_002_LoginTest");
 		
 		try
